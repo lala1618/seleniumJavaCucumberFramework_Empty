@@ -69,9 +69,7 @@ public class data {
 
 
 
-    public static String getConfigPropertiesDirectory() {
-        return CONFIG_PROPERTIES_DIRECTORY;
-    }
+    public static String getConfigPropertiesDirectory() {return CONFIG_PROPERTIES_DIRECTORY;}
 
     public static String getGeckoDriverDirectory() {
         return GECKO_DRIVER_DIRECTORY;

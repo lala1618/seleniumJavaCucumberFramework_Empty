@@ -524,3 +524,44 @@ Error: Incorrect login or password provided.>
 2023-04-13 00:04:646 INFO  BasePage:56 - Initialize Web driver: 201069753
 2023-04-13 00:04:677 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
 2023-04-13 00:04:733 INFO  WaitHelper:135 - page is loaded
+2023-04-24 10:04:554 INFO  BasePage:56 - Initialize Web driver: 220040730
+2023-04-24 10:04:563 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 10:04:584 INFO  WaitHelper:135 - page is loaded
+2023-04-24 10:04:866 INFO  BasePage:62 - navigate To IndexPage....: https://automationteststore.com/
+2023-04-24 10:04:77 INFO  BasePage:128 - WebElement is clicked: <Login or register>
+2023-04-24 11:04:828 INFO  BasePage:56 - Initialize Web driver: 1999135146
+2023-04-24 11:04:836 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:858 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:416 INFO  BasePage:56 - Initialize Web driver: 1714007305
+2023-04-24 11:04:421 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:433 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:272 INFO  BasePage:56 - Initialize Web driver: 1778994610
+2023-04-24 11:04:279 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:299 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:358 INFO  BasePage:56 - Initialize Web driver: 731870416
+2023-04-24 11:04:363 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:389 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:783 INFO  BasePage:56 - Initialize Web driver: 2130606983
+2023-04-24 11:04:790 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:851 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:144 INFO  BasePage:56 - Initialize Web driver: 1813375175
+2023-04-24 11:04:150 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:161 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:940 INFO  BasePage:56 - Initialize Web driver: 1651318806
+2023-04-24 11:04:944 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:958 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:212 INFO  BasePage:62 - navigate To IndexPage....: https://automationteststore.com/
+2023-04-24 11:04:09 INFO  BasePage:128 - WebElement is clicked: <>
+2023-04-24 11:04:124 INFO  BasePage:277 - WebElement is visible using locator: <[[ChromeDriver: chrome on WINDOWS (3056559986066355eb61f828b0fc4ce0)] -> css selector: #filter_keyword]>
+2023-04-24 11:04:295 INFO  BasePage:109 - Successfully Sent the following keys: 'Skincare' to element: <[[ChromeDriver: chrome on WINDOWS (3056559986066355eb61f828b0fc4ce0)] -> css selector: #filter_keyword]>
+2023-04-24 11:04:329 INFO  BasePage:128 - WebElement is clicked: <>
+2023-04-24 11:04:865 INFO  BasePage:56 - Initialize Web driver: 871550938
+2023-04-24 11:04:870 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:886 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:125 INFO  BasePage:62 - navigate To IndexPage....: https://automationteststore.com/
+2023-04-24 11:04:214 INFO  JavaScriptHelper:77 - scroll till web element
+2023-04-24 11:04:166 INFO  BasePage:56 - Initialize Web driver: 409832049
+2023-04-24 11:04:170 INFO  WaitHelper:133 - waiting for page to load for : SECONDS seconds
+2023-04-24 11:04:181 INFO  WaitHelper:135 - page is loaded
+2023-04-24 11:04:373 INFO  BasePage:62 - navigate To IndexPage....: https://automationteststore.com/
+2023-04-24 11:04:100 INFO  JavaScriptHelper:77 - scroll till web element
